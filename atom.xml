@@ -6,7 +6,7 @@
   <link href="https://yumi-cn.github.io/atom.xml" rel="self"/>
   
   <link href="https://yumi-cn.github.io/"/>
-  <updated>2020-12-23T12:34:07.071Z</updated>
+  <updated>2020-12-26T02:44:55.040Z</updated>
   <id>https://yumi-cn.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://yumi-cn.github.io/2020/12/23/plan-2021-01/"/>
     <id>https://yumi-cn.github.io/2020/12/23/plan-2021-01/</id>
     <published>2020-12-23T10:10:23.000Z</published>
-    <updated>2020-12-23T12:34:07.071Z</updated>
+    <updated>2020-12-26T02:44:55.040Z</updated>
     
-    <content type="html"><![CDATA[<p>距离2021的春招实习只有2个半月了，要开始争分夺秒了（唉，好想给女儿做二创啊）。</p><p>感觉前两个月因为各种各样的情况，看书写笔记的效率还是有点低（投入的时间确实也不够多），还有同时要看几本难啃的书确实不容易，之后要分清一下多个任务的主次了。</p><a id="more"></a><p>12月剩下时间的规划：</p><ul><li><strong>《剑指Offer》</strong>第3、4章，暂时不再写完整的博客了，只贴部分题目的完整实现代码；</li><li><strong>《3D游戏与计算机图形学中的数学方法》</strong>第3、4、5章，暂时不再写完整博客，会先简单写一些重要知识点摘录（自己打公式太费时间了）；</li><li><strong>《Real Time Rendering 4th》</strong>第2、3、4章，不再写完整博客，翻译还是有点费时费力，先看一遍过一下好了，主要作为3D数学方法那本书的知识补充。</li></ul><p>1月的规划：</p><ul><li><strong>《剑指Offer》</strong>第5、6章，不写完整博客，只贴部分题目的完整实现代码；</li><li><strong>《3D游戏与计算机图形学中的数学方法》</strong>第6-9章，暂时不再写完整博客，会先简单写一些重要知识点摘录；</li><li><strong>《Real Time Rendering 4th》</strong>第5-11章，只读，不写博客；</li><li><strong>《Effective C++》</strong>的55个条款，尽量都写写代码尝试实践，每一个其实都涉及到不少原本C++中的知识点，应该都要同步学习或者复习一下。</li></ul><p>其实就算是真的完成了这么多阅读的任务，还是有很多<strong>知识盲区</strong>，比如Unity3D、UE4、OpenGL、DirectX、RTX系列技术这种。</p><p>2月的初步规划（除掉过年，可能只有大半月的时间）：</p><ul><li><strong>面试笔试题</strong>，稍微刷一点面试常见的算法题(尤其是mid和hard难度的)，数量控制在100题以内吧，找到用C++解题的手感；</li><li><strong>引擎面试题</strong>，只能去收集各大厂引擎、渲染方面的面经贴，然后总结各种各样的点，有必要的话拓展去了解；</li><li><strong>OpenGL</strong>，估计至少要走一遍指南吧，代码都敲一敲；</li><li><strong>Unity3D入门和《Unity Shader 入门精要》</strong>，主要是了解Unity方面的相关知识；</li><li><strong>各大厂的简历投递</strong>，别忘了投简历了，注意提前收集他们的时间。</li></ul><p>3月的初步规划（基本上到了冲刺阶段了，剩下半个月时间）：</p><ul><li><strong>面试笔试题</strong>，每日做题的任务照常安排着走；</li><li><strong>引擎面试题</strong>，继续看收集的那些面试问题，顺带复习一下以前的笔记；</li><li><strong>《游戏引擎架构》</strong>，半个月简单刷一下这本书的大致内容，做到都有一定了解即可，当作知识广度阅读资料。</li></ul>]]></content>
+    <content type="html"><![CDATA[<p>距离2021的春招实习只有2个半月了，要开始争分夺秒了（唉，好想给女儿做二创啊）。</p><p>感觉前两个月因为各种各样的情况，看书写笔记的效率还是有点低（投入的时间确实也不够多），还有同时要看几本难啃的书确实不容易，之后要分清一下多个任务的主次了。</p><a id="more"></a><p>12月剩下时间的规划：</p><ul><li><strong>《剑指Offer》</strong>第3、4章，暂时不再写完整的博客了，只贴部分题目的完整实现代码；</li><li><strong>《3D游戏与计算机图形学中的数学方法》</strong>第4、5、6章，暂时不再写完整博客，会先简单写一些重要知识点摘录（自己打公式太费时间了）；</li><li><strong>《Real Time Rendering 4th》</strong>第2、3、4章，不再写完整博客，翻译还是有点费时费力，先看一遍过一下好了，主要作为3D数学方法那本书的知识补充。</li></ul><p>1月的规划：</p><ul><li><strong>《剑指Offer》</strong>第5、6章，不写完整博客，只贴部分题目的完整实现代码；</li><li><strong>《3D游戏与计算机图形学中的数学方法》</strong>第6-9章，暂时不再写完整博客，会先简单写一些重要知识点摘录；</li><li><strong>《Real Time Rendering 4th》</strong>第5-11章，只读，不写博客；</li><li><strong>《Effective C++》</strong>的55个条款，尽量都写写代码尝试实践，每一个其实都涉及到不少原本C++中的知识点，应该都要同步学习或者复习一下。</li></ul><p>其实就算是真的完成了这么多阅读的任务，还是有很多<strong>知识盲区</strong>，比如Unity3D、UE4、OpenGL、DirectX、RTX系列技术这种。</p><p>2月的初步规划（除掉过年，可能只有大半月的时间）：</p><ul><li><strong>面试笔试题</strong>，稍微刷一点面试常见的算法题(尤其是mid和hard难度的)，数量控制在100题以内吧，找到用C++解题的手感；</li><li><strong>引擎面试题</strong>，只能去收集各大厂引擎、渲染方面的面经贴，然后总结各种各样的点，有必要的话拓展去了解；</li><li><strong>OpenGL</strong>，估计至少要走一遍指南吧，代码都敲一敲；</li><li><strong>Unity3D入门和《Unity Shader 入门精要》</strong>，主要是了解Unity方面的相关知识；</li><li><strong>各大厂的简历投递</strong>，别忘了投简历了，注意提前收集他们的时间。</li></ul><p>3月的初步规划（基本上到了冲刺阶段了，剩下半个月时间）：</p><ul><li><strong>面试笔试题</strong>，每日做题的任务照常安排着走；</li><li><strong>引擎面试题</strong>，继续看收集的那些面试问题，顺带复习一下以前的笔记；</li><li><strong>《游戏引擎架构》</strong>，半个月简单刷一下这本书的大致内容，做到都有一定了解即可，当作知识广度阅读资料。</li></ul>]]></content>
     
     
     <summary type="html">&lt;p&gt;距离2021的春招实习只有2个半月了，要开始争分夺秒了（唉，好想给女儿做二创啊）。&lt;/p&gt;
