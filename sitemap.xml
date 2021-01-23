@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yumi-cn.github.io/2021/01/23/learnopengl-c1/</loc>
+    
+    <lastmod>2021-01-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yumi-cn.github.io/about/index.html</loc>
+    
+    <lastmod>2021-01-23</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yumi-cn.github.io/2021/01/23/s2o-c6/</loc>
     
     <lastmod>2021-01-23</lastmod>
@@ -148,13 +162,6 @@
     
   </url>
   
-  <url>
-    <loc>https://yumi-cn.github.io/about/index.html</loc>
-    
-    <lastmod>2020-11-27</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://yumi-cn.github.io/</loc>
@@ -196,6 +203,13 @@
   
   <url>
     <loc>https://yumi-cn.github.io/categories/Real-Time-Rendering-4th/</loc>
+    <lastmod>2021-01-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yumi-cn.github.io/categories/LearnOpenGL/</loc>
     <lastmod>2021-01-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
